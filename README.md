@@ -45,6 +45,8 @@ $ git push
 
 <img src="/images/cdn_release_fill.png" />
 
+> 提示：实际上你不需要发布，只要提交到仓库也可以访问。
+
 ## 五、通过jsDelivr引用资源
 
 访问语法：
