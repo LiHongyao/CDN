@@ -8,7 +8,7 @@
 
 在 Github 新建一个名为 CDN 的仓库，如下所示：
 
-<img src="E:/远程仓库/Blogs/IMGS/cdn_create_repository.png" alt="新建git仓库"/>
+<img src="/images/cdn_create_repository.png" alt="新建git仓库"/>
 
 > 提示：仓库名其实可以随意取，这里我用 CDN 命名便于管理维护；
 
@@ -16,7 +16,7 @@
 
 点击 Code，一键复制仓库地址：
 
-<img src="E:/远程仓库/Blogs/IMGS/cdn_clone.png" alt="复制仓库地址" />
+<img src="/images/cdn_clone.png" alt="复制仓库地址" />
 
 在本地目录右键 Git Bash Here，执行以下命令：
 
@@ -39,11 +39,11 @@ $ git push
 
 点击 release 发布：
 
-<img src="E:/远程仓库/Blogs/IMGS/cdn_releases.png" alt="发布"/>
+<img src="/images/cdn_releases.png" alt="发布"/>
 
 填写发布信息：
 
-<img src="E:/远程仓库/Blogs/IMGS/cdn_release_fill.png" />
+<img src="/images/cdn_release_fill.png" />
 
 ## 五、通过jsDelivr引用资源
 
