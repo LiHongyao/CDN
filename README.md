@@ -60,8 +60,14 @@ $ git push
 访问语法：
 
 ```
-https://cdn.jsdelivr.net/gh/用户名/仓库名[@发布的版本号][@分支名]/文件路径
+域名/gh/用户名/仓库名[@发布的版本号][@分支名]/文件路径
 ```
+
+> 域名：
+>
+> - https://cdn.jsdelivr.net
+>
+> - https://jsdelivr.zzy-ac.workers.dev/
 
 例如：
 
